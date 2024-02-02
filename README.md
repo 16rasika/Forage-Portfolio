@@ -4,6 +4,6 @@
 ## TATA-Retail
 ## Learnings: Power-BI, Data Cleaaning,
 ## PWC
-## Learnings: Power-BI,Handling Big Data
+## Learnings: Power-BI,Handling Big Data, Power Bi Dashboard, Calculating Measures
 
 
