@@ -29,6 +29,7 @@ Simulation on Forage - January 2024
    making
     
 ## PWC
+![PwC_logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/c41124d3-2459-4d19-88b9-aa58f13c120a)
 ## PwC Switzerland Power BI Skills Learned
 ## Learnings: Power-BI,Handling Big Data, Power Bi Dashboard, Calculating Measures
 ## Skills: CALCULATING MEASURES,DEFINING KPIS,INSIGHT AND ACTIONS,POWER BI DASHBOARD
