@@ -2,6 +2,8 @@
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
 ## Accenture-Social Buzz
+![Accenture Logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/e7d44129-e4a1-437a-a938-51a6e1353129)
+
 ## Learnings: vlookup from excel,using MS-excel for cleaning work,Power-BI,Story telling,Power point presentation
 ## Skills: COMMUNICATION,DATA ANALYSIS,DATA MODELING,DATA UNDERSTANDING,DATA VISUALIZATION,PRESENTATIONS,PROJECT PLANNING
            
