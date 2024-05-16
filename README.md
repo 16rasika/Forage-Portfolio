@@ -1,6 +1,5 @@
 # Forage Online Internship
-
-![alt text](https://github.com/[16rasika]/[Forage-Portfolio]/blob/[branch]/Forage.jpg?raw=true)
+![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
 ## Accenture-Social Buzz
 ## Learnings: vlookup from excel,using MS-excel for cleaning work,Power-BI,Story telling,Power point presentation
