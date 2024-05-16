@@ -3,7 +3,7 @@
 ## Accenture-Social Buzz
 ## Learnings: vlookup from excel,using MS-excel for cleaning work,Power-BI,Story telling,Power point presentation
 ## Skills: COMMUNICATION,DATA ANALYSIS,DATA MODELING,DATA UNDERSTANDING,DATA VISUALIZATION,PRESENTATIONS,PROJECT PLANNING
-           ## **PUBLIC SPEAKING,STORYTELLING,TEAMWORK**
+           
 Accenture North America Data Analytics and Visualization Job Simulation on
 Forage - January 2024
  * Completed a simulation focused on advising a hypothetical social media client
