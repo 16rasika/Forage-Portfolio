@@ -1,5 +1,7 @@
 # Forage Online Internship
 
+![alt text](https://github.com/[16rasika]/[Forage-Portfolio]/blob/[branch]/Forage.jpg?raw=true)
+
 ## Accenture-Social Buzz
 ## Learnings: vlookup from excel,using MS-excel for cleaning work,Power-BI,Story telling,Power point presentation
 ## Skills: COMMUNICATION,DATA ANALYSIS,DATA MODELING,DATA UNDERSTANDING,DATA VISUALIZATION,PRESENTATIONS,PROJECT PLANNING
