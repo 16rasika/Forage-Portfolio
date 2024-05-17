@@ -50,6 +50,7 @@ PwC Switzerland Power BI Job Simulation on Forage - February 2024
    to data-driven decision-making.
  
 ## BRITISH AIRWAYS
+![British Airways](https://github.com/16rasika/Forage-Portfolio/assets/128808554/633253b7-63b5-4f5b-9a28-45db973b23dd)
 ## Learnings : Web scrapping,Data cleaning,Data Visualization,Sentiment Analysis
 British Airways Data Science Job Simulation on Forage - March 2024
  * Completed a simulation focussing on how data science is a critical component
