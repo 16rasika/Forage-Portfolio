@@ -17,6 +17,7 @@ Forage - January 2024
    for the client and internal stakeholders
    
 ## TATA Group Data Visualisation: Empowering Business with Effective Insights Skills Learned
+![TATA Logo (1)](https://github.com/16rasika/Forage-Portfolio/assets/128808554/9f3c13e4-4eb4-468e-81cd-8656db740229)
 ## Learnings: Power-BI, Data Cleaaning
 ## Skills: DATA ANALYSIS,DATA CLEANUP,DASHBOARD,DATA VISUALISATION,ANALYSIS & PRESENTATION
 
