@@ -50,6 +50,8 @@ PwC Switzerland Power BI Job Simulation on Forage - February 2024
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
+•  Data visualization through Power BI dashboards based on customer requirement & Presentation of KPIs
+
  
 ## BRITISH AIRWAYS
 ![British Airways](https://github.com/16rasika/Forage-Portfolio/assets/128808554/633253b7-63b5-4f5b-9a28-45db973b23dd)
