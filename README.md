@@ -28,6 +28,8 @@ Simulation on Forage - January 2024
  * Prepared questions for a meeting with client senior leadership
  * Created visuals for data analysis to help executives with effective decision
    making
+•  Prepared data visualizations in Power BI for data analysis to help executives with effective decision making.
+
     
 ## PWC
 ![PwC_logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/c41124d3-2459-4d19-88b9-aa58f13c120a)
