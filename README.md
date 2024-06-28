@@ -5,7 +5,7 @@
 ![Accenture Logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/e7d44129-e4a1-437a-a938-51a6e1353129)
 
 ## Learnings: vlookup from excel,using MS-excel for cleaning work,Power-BI,Story telling,Power point presentation
-## Skills: COMMUNICATION,DATA ANALYSIS,DATA MODELING,DATA UNDERSTANDING,DATA VISUALIZATION,PRESENTATIONS,PROJECT PLANNING
+## Skills: COMMUNICATION,DATA ANALYSIS,DATA MODELING,DATA UNDERSTANDING,DATA VISUALIZATION,PRESENTATIONS,PROJECT PLANNING,POWER BI DASHBOARD
            
 Accenture North America Data Analytics and Visualization Job Simulation on
 Forage - January 2024
