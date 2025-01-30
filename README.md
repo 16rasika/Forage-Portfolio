@@ -65,11 +65,15 @@ British Airways Data Science Job Simulation on Forage - March 2024
    behaviour.
    
 ## Commonwealth Bank
-
+![Image](https://github.com/user-attachments/assets/54646a9a-7d53-4a95-adf9-f9d280b58544)
 ## Lerning: Power query editor,Power point,Dataflow
-## Skills:
+## Skills:Data-analysis,dataprocessing,Database design,Statistics
 Introduction to DataScience Job Simulation - Jan 2025
+
 *Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
+
 *Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
+
 *Acquired skills in anonymizing personal data within datasets, ensuring compliance with data privacy regulations.
+
 *Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases for efficient information management.
