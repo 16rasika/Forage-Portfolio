@@ -28,7 +28,7 @@ Simulation on Forage - January 2024
  * Prepared questions for a meeting with client senior leadership
  * Created visuals for data analysis to help executives with effective decision
    making
-*  Prepared data visualizations in Power BI for data analysis to help executives with effective decision making.
+ * Prepared data visualizations in Power BI for data analysis to help executives with effective decision making.
 
     
 ## PWC
@@ -50,7 +50,7 @@ PwC Switzerland Power BI Job Simulation on Forage - February 2024
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
-•  Data visualization through Power BI dashboards based on customer requirement & Presentation of KPIs
+*  Data visualization through Power BI dashboards based on customer requirement & Presentation of KPIs
 
  
 ## BRITISH AIRWAYS
@@ -64,4 +64,12 @@ British Airways Data Science Job Simulation on Forage - March 2024
  * Built a predictive model to understand factors that influence buying
    behaviour.
    
+## Commonwealth Bank
 
+## Lerning: Power query editor,Power point,Dataflow
+## Skills:
+Introduction to DataScience Job Simulation - Jan 2025
+*Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
+*Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
+*Acquired skills in anonymizing personal data within datasets, ensuring compliance with data privacy regulations.
+*Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases for efficient information management.
