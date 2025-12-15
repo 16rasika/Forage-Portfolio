@@ -1,6 +1,7 @@
 # Forage Online Internship
 ![Forage](https://github.com/16rasika/Forage-Portfolio/assets/128808554/8533191e-c3a7-4934-a87d-cd1ed3cc0893)
 
+
 ## Accenture-Social Buzz
 ![Accenture Logo](https://github.com/16rasika/Forage-Portfolio/assets/128808554/e7d44129-e4a1-437a-a938-51a6e1353129)
 
@@ -70,10 +71,13 @@ British Airways Data Science Job Simulation on Forage - March 2024
 ## Skills:Data-analysis,dataprocessing,Database design,Statistics
 Introduction to DataScience Job Simulation - Jan 2025
 
-*Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
+* Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
 
-*Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
+* Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
 
-*Acquired skills in anonymizing personal data within datasets, ensuring compliance with data privacy regulations.
+* Acquired skills in anonymizing personal data within datasets, ensuring compliance with data privacy regulations.
 
-*Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases for efficient information management.
+* Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases for efficient information management.
+
+## Deloitte
+![]
