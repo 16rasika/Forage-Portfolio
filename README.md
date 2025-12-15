@@ -67,7 +67,7 @@ British Airways Data Science Job Simulation on Forage - March 2024
    
 ## Commonwealth Bank
 ![Image](https://github.com/user-attachments/assets/54646a9a-7d53-4a95-adf9-f9d280b58544)
-## Lerning: Power query editor,Power point,Dataflow
+## Learning: Power query editor,Power point,Dataflow
 ## Skills:Data-analysis,dataprocessing,Database design,Statistics
 Introduction to DataScience Job Simulation - Jan 2025
 
@@ -80,4 +80,14 @@ Introduction to DataScience Job Simulation - Jan 2025
 * Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases for efficient information management.
 
 ## Deloitte
-![]
+!<img width="225" height="225" alt="Image" src="https://github.com/user-attachments/assets/62966e52-266e-460b-8e8b-77efc890ea7d" />
+## Learning: Tableau, Excel
+## Skills: Data Modeling, Data Analysis, Data Visualization Tools, Spreadsheet Skills
+Deloitte Australia Data Analytics Job Simulation on Forage - December 2025
+
+* Completed a Deloitte job simulation involving data analysis and forensic technology.
+   
+* Created a data dashboard using Tableau.
+  
+* Used Excel to classify data and draw business conclusions
+
